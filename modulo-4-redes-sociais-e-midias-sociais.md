@@ -25,6 +25,3 @@ Além do alcance orgânico, as redes sociais oferecem oportunidades de publicida
 Ao concluir este módulo, você estará preparado para utilizar eficazmente as redes sociais e as mídias sociais como parte de sua estratégia de marketing digital.
 
 [Próximo: Módulo 5 - Email Marketing e Automação](modulo-5-email-marketing-e-automacao.md)
-```
-
-Este é um exemplo do quarto módulo do seu curso de Marketing Digital, que se concentra em estratégias de marketing em redes sociais e mídias sociais, incluindo a criação de conteúdo social e publicidade segmentada. Você pode seguir essa estrutura para desenvolver os módulos restantes e, posteriormente, adicioná-los ao seu repositório no GitHub. Continuaremos a criar conteúdo para os módulos subsequentes conforme você desejar.
