@@ -25,6 +25,3 @@ A automação de marketing é uma maneira eficaz de otimizar seus esforços. Dis
 Ao final deste módulo, você estará pronto para implementar estratégias de email marketing e automação para fortalecer seu relacionamento com o público.
 
 [Próximo: Módulo 6 - Métricas e Análises](modulo-6-metricas-e-analises.md)
-```
-
-Este é um exemplo do quinto módulo do seu curso de Marketing Digital, que se concentra no email marketing e na automação de marketing. Você pode seguir essa estrutura para desenvolver os módulos restantes e, posteriormente, adicioná-los ao seu repositório no GitHub. Continuaremos a criar conteúdo para os módulos subsequentes conforme você desejar.
