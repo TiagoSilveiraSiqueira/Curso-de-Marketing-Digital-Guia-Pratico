@@ -25,6 +25,3 @@ Aprendemos com exemplos reais de sucesso. Nesta seção, analisaremos estudos de
 Ao concluir este módulo, você estará pronto para desenvolver uma estratégia sólida de marketing digital, alinhada com seus objetivos e recursos disponíveis.
 
 [Próximo: Módulo 8 - Conclusão e Próximos Passos](modulo-8-conclusao-e-proximos-passos.md)
-```
-
-Este é um exemplo do sétimo módulo do seu curso de Marketing Digital, que se concentra no desenvolvimento de uma estratégia sólida de marketing digital. Você pode seguir essa estrutura para desenvolver o último módulo e, posteriormente, adicioná-los ao seu repositório no GitHub. Continuaremos a criar conteúdo para o módulo final "Conclusão e Próximos Passos" conforme você desejar.
