@@ -4,7 +4,6 @@ Parabéns por concluir o curso de Marketing Digital! Neste módulo final, aborda
 
 
 1. Revise todo o material do curso.
-2. Conclua os exercícios práticos e avaliações, se aplicável.
    
 ## 8.1. Próximos Passos
 
