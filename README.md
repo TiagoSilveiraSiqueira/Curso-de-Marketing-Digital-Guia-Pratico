@@ -27,9 +27,6 @@ Neste curso, você aprenderá a criar e executar estratégias de marketing digit
 3. Realize os exercícios práticos e estudos de caso para aplicar o que aprendeu.
 4. Use as ferramentas de análise e métricas para avaliar o desempenho de suas estratégias.
 
-## Certificação
-
-Ao concluir o curso, você pode fazer a avaliação e receber um certificado de conclusão.
 
 ## Contribuições
 
