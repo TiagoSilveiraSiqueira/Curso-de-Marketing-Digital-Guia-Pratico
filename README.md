@@ -37,6 +37,6 @@ Este curso está aberto a contribuições. Se você encontrar erros, tiver suges
 
 ## Contato
 
-Se tiver dúvidas ou precisar de suporte, entre em contato pelo e-mail [seuemail@example.com].
+Se tiver dúvidas ou precisar de suporte, entre em contato pelo e-mail [tiagonomade@gmail.com].
 
 Aproveite o curso e boa sorte em sua jornada no marketing digital!
