@@ -25,6 +25,3 @@ Além de criar conteúdo, é essencial promovê-lo de forma eficaz. Nesta seçã
 Ao final deste módulo, você terá uma compreensão sólida do marketing de conteúdo e saberá como criar e promover conteúdo de qualidade para atrair e envolver seu público.
 
 [Próximo: Módulo 4 - Redes Sociais e Mídias Sociais](modulo-4-redes-sociais-e-midias-sociais.md)
-```
-
-Este é um exemplo do terceiro módulo do seu curso de Marketing Digital, que se concentra no marketing de conteúdo, desde a criação de conteúdo de qualidade até a promoção eficaz desse conteúdo. Você pode seguir essa estrutura para desenvolver os módulos restantes e, posteriormente, adicioná-los ao seu repositório no GitHub. Continuaremos a criar conteúdo para os módulos seguintes conforme você desejar.
